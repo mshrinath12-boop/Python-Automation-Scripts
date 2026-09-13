@@ -1,0 +1,17 @@
+===============================
+Smart Backup report
+===============================
+Run Date: 2026-07-30
+Start Time: 30 07 2026 19:11:45 
+End time: 30 07 2026 19:11:51
+Execution Time: 5.922 seconds
+Source Folder: files
+Backup Folder: Backups
+Total Files: 12
+Successfully copied: 0
+Files to copy: 0
+Files to skip: 12
+Failed copies: 0
+Skipped Files: 12
+Verified files: 0
+Verification failed: 0

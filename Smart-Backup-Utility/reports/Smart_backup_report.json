@@ -1,0 +1,22 @@
+{
+    "run_info": {
+        "run_date": "30 07 2026",
+        "start_time": "30 07 2026 19:11:45",
+        "end_time": "30 07 2026 19:11:51",
+        "execution_time": "5.922 seconds"
+    },
+    "backup_info": {
+        "source_folder": "files",
+        "backup_folder": "Backups",
+        "backup_type": "Full",
+        "verification_algorithm": "SHA-256"
+    },
+    "statistics": {
+        "total_files": 12,
+        "success_count": 0,
+        "failed_count": 0,
+        "skipped_count": 12,
+        "verified_count": 0,
+        "verification_failed_count": 0
+    }
+}
